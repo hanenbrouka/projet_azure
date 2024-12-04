@@ -1,5 +1,5 @@
 streamlit==1.16.0
-pyodbc==4.0.32
+pyodbc==4.0.30
 pandas==1.5.3
 azure-identity==1.11.0
 azure-mgmt-web==2.0.0
