@@ -144,5 +144,3 @@ elif choix == "Clients":
         if st.button("Supprimer"):
             supprimer_client(ID_client)
             st.success(f"Client ID {ID_client} supprimé avec succès !")
-
-
